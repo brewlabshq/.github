@@ -1,2 +1,3 @@
-![brewing-infra](https://github.com/user-attachments/assets/472b67e6-a55b-4b7c-b9c7-1f16fca469f0)
+![brew-labs](https://github.com/user-attachments/assets/bbcd6129-e0d3-4a45-870c-1cab84e5a888)
 # Espresso for Infra - home for open-source projects.
+
